@@ -1,8 +1,8 @@
-Multi-PDF Conversational Agent
-Overview
+# Multi-PDF Conversational Agent
+## Overview
 Multi-PDF Conversational Agent is a web-based application that allows users to interact with and query information from multiple PDF documents. The application provides a conversational interface where users can upload PDFs and ask questions about the content. It integrates several advanced technologies to deliver accurate and contextually relevant responses.
 
-Features
+## Features
 PDF Upload: Users can upload multiple PDF files for processing.
 Text Extraction and Chunking: Extracts and splits text from PDFs into manageable chunks.
 Semantic Search: Uses SentenceTransformer to generate embeddings and FAISS for efficient retrieval.
