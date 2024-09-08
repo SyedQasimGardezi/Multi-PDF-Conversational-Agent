@@ -15,8 +15,7 @@ SentenceTransformer: For generating semantic embeddings.
 FAISS: For vector-based similarity search.
 LangChain: For conversational capabilities.
 ChatOpenAI: For providing context-aware responses.
-Installation
-Clone the repository:
+##Clone the repository:
 
 bash
 Copy code
@@ -41,17 +40,11 @@ Run the Streamlit application:
 bash
 Copy code
 streamlit run app.py
-Open your web browser and go to http://localhost:8501.
 
 Upload your PDF documents using the sidebar and click "Process".
 
 Ask questions about the content of your PDFs using the chat interface.
 
-Contributing
-Feel free to submit issues or pull requests if you have suggestions for improvements or bug fixes. Please follow the standard GitHub workflow for contributions.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
-Contact
+## Contact
 For any questions or inquiries, please contact your email address.
